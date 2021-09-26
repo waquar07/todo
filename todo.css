@@ -1,6 +1,7 @@
 .container{
     filter: blur(10px);
     margin-right: 876px;
+    z-index: -1;
 }
 .container2{
     
@@ -127,4 +128,47 @@ body{
     border: 1px solid black;
     height: 600px;
     width: 1167px;
+}
+.border{
+    border-radius: 14px;
+    border: 1px solid crimson;
+    position: relative;
+    height: 163px;
+    width: 388px;
+    z-index: 5px;
+    top: -550px;
+    left: 474px;
+    box-shadow: 6px 4px 11px grey;
+    
+}
+.lorem{
+    top: 1px;
+    position: absolute;
+    color: orangered;
+    font-family: sans-serif;
+    font-stretch: extra-expanded;
+    left: 132px;
+    font-size: 22px;
+}
+.border1{
+    border-radius: 7px;
+    position: absolute;
+    border: 1px solid orangered;
+    height: 33px;
+    width: 250px;
+    top: 63px;
+    left: 70px;
+}
+.btn{
+    position: absolute;
+    top: 107px;
+    left: 66ox;
+    left: 156px;
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+    width: 75px;
+    height: 41px;
+    font-size: 20px;
+    border-color: snow;
 }
