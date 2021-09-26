@@ -1,0 +1,114 @@
+.parent{
+    box-shadow: 5px 5px 7px grey;
+    position: relative;
+    margin-left: 540px;
+    border: 1px solid crimson;
+    width: 420px;
+    height: 380px;
+    border-radius: 14px;
+    top: 213px;
+}
+.one{
+    top: 18px;
+    font-stretch: extra-expanded;
+    color: orangered;
+    font-family: arial;
+    font-size: 32px;
+    position: absolute;
+    left: 124px;
+}
+hr{
+    width: 288px;
+    position: relative;
+    top: 96px;
+    left: 65px;
+}
+.three{
+    width: 183px;
+    position: absolute;
+    top: 141px;
+    left: 111px;
+    border-top: 4px solid orangered;
+}
+.two{
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 23px;
+    left: 131px;
+    position: absolute;
+    top: 102px;
+    color: orangered;
+}
+.four{
+    font-size: 21px;
+    font-family: sans-serif;
+    left: 133px;
+    position: absolute;
+    top: 148px;
+    color: black;
+}
+/* .five{
+    top: 172px;
+    border: 1px solid black;
+    width: 17px;
+    height: 17px;
+    border-radius: -1px;
+    position: absolute;
+    left: 106px; */
+
+.fa-plus-circle{
+    content: "\f055";
+    color: orangered;
+    font-size: 37px;
+    position: absolute;
+    right: 17px;
+    bottom: 18px;
+}
+.five{
+    width: 19px;
+    height: 20px;
+    position: relative;
+    top: 150px;
+    left: 102px;
+}
+.six{
+    font-family: sans-serif;
+    color: gray;
+    left: 735px;
+    top: -256px;
+    position: relative;
+    font-size: 30px;
+}
+.fa-arrow-circle-left{
+    color: orangered;
+    content: "\f0a8";
+    position: relative;
+    top: -289px;
+    left: 689px;
+    font-size: 34px;
+}
+body{
+    margin-right: 736px;
+}
+.seven{
+    font-stretch: extra-expanded;
+    position: relative;
+    top: -480px;
+    left: 602px;
+    font-size: 54px;
+    font-family: sans-serif;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.eight{
+    width: 145px;
+    position: relative;
+    top: -560px;
+    left: 129px;
+}
+.nine{
+    width: 145px;
+    position: relative;
+    top: -572px;
+    left: 608px;
+}

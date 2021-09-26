@@ -1,0 +1,130 @@
+.container{
+    filter: blur(10px);
+    margin-right: 876px;
+}
+.container2{
+    
+    width: 721px;
+    height: 500px;
+    position: relative;
+    left: 299px;
+    top: 67px;
+}
+.box{
+    border: 1px solid crimson;
+    width: 181px;
+    height: 265px;
+    position: absolute;
+    left: 23px;
+    top: 20px;
+    border-radius: 10px;
+    box-shadow: 8px 5px 15px grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    padding-top: 32px;
+}
+hr{
+    top: -7px;
+    position: relative;
+    left: 14px;
+    width: 153px;
+}
+.box1{
+    text-align: center;
+    color: crimson;
+
+
+}
+.box2{
+    text-align: center;
+    color: crimson;
+    position: absolute;
+    left: 268px;
+}
+.box3{
+    text-align: center;
+    color: crimson;
+    position: absolute;
+    left: 511px;
+}
+.one{
+    font-size: 21px;
+    padding-left: 26px;
+    color: red;
+    text-decoration: line-through;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: -10px;
+}
+.pending{
+    position: relative;
+    color: dimgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    top: 14px;
+    left: -14px;
+}
+.check{
+    position: relative;
+    top: 14px;
+    left: -10px;
+}
+h1{
+    font-family: arial;
+    position: relative;
+    top: 226px;
+    left: 320px;
+    font-size: 51px;
+}
+.text1{
+    position: relative;
+    left: 473px;
+    top: 137px;
+    font-size: 46px;
+    font-family: arial;
+    font-stretch: ultra-condensed;
+    color: darkgray;
+}
+.container{
+    position: relative;
+    top: -194px;
+}
+.text2{
+    position: relative;
+    top: 100px;
+    left: 884px;
+    font-family: system-ui;
+    color: darkgray;
+    font-size: 26px;
+}
+.plus{
+    border: 0px solid;
+    background-color: crimson;
+    height: 50px;
+    width: 50px;
+    border-radius: 2px;
+}
+.plus{
+    border: 0px solid;
+    background-color: crimson;
+    height: 24px;
+    width: 24px;
+    border-radius: 25px;
+    position: relative;
+    /* right: 60px; */
+    margin-left: 853px;
+    top: 72px;
+}
+.plus1{
+    position: relative;
+    top: 48px;
+    left: 859px;
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+}
+body{
+    border: 1px solid black;
+    height: 600px;
+    width: 1167px;
+}
