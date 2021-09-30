@@ -68,16 +68,16 @@ hr{
 h1{
     font-family: arial;
     position: relative;
-    top: 226px;
+    top: 239px;
     left: 320px;
     font-size: 51px;
 }
 .text1{
     position: relative;
     left: 473px;
-    top: 137px;
+    top: 144px;
     font-size: 46px;
-    font-family: arial;
+    font-family: 'Heebo', sans-serif;
     font-stretch: ultra-condensed;
     color: darkgray;
 }
